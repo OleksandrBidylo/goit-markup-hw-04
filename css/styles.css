@@ -173,7 +173,6 @@ nav ul li a.header-studio::after {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office.jpg);
-  max-width: 1440рх;
 
   background-repeat: no-repeat;
   background-position: center;
