@@ -191,6 +191,7 @@ nav ul li a.header-studio::after {
 
   padding-bottom: 188px;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero-wrap {
